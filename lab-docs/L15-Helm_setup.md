@@ -55,7 +55,7 @@ then you can run the command to pack it after your update
  helm package mysql
 ```
 
-To deploy helm chat
+To deploy helm chart
 ```sh 
  helm install mysqldb mysql-1.6.9.tgz
 ```
