@@ -1,5 +1,11 @@
 # Helm setup 
 
+Prerequisites:
+The following prerequisites are required for a successful and properly secured use of Helm.
+A Kubernetes cluster:
+    You must have Kubernetes
+    You should also have a local configured copy of kubectl
+
 1. Install helm
    ```sh 
    curl -fsSL -o get_helm.sh https://raw.githubusercontent.com/helm/helm/master/scripts/get-helm-3
