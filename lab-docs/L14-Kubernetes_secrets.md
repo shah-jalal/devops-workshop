@@ -21,5 +21,5 @@ Make sure secret value name `regcred` is updated in the deployment file.
 
   `copy auth value to encode`
   cat ~/.docker/config.json | base64 -w0
-  `use above command output in the secret`
+  `use above command output in the kubernetes secret.yaml`
 ```
