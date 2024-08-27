@@ -19,7 +19,7 @@ A Kubernetes cluster:
    ```
 1. [optional] Download .kube/config file to build the node 
    ```sh
-   aws eks update-kubeconfig --region ap-south-1 --name ed-eks-01
+   aws eks update-kubeconfig --region us-east-1 --name ttrend-eks-cluster
    ```
 
 1. Setup helm repo 
