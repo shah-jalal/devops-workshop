@@ -3,8 +3,8 @@
 Prerequisites:
 The following prerequisites are required for a successful and properly secured use of Helm.
 A Kubernetes cluster:
-    You must have Kubernetes
-    You should also have a local configured copy of kubectl
+- You must have Kubernetes
+- You should also have a local configured copy of kubectl
 
 1. Install helm
    ```sh 
